@@ -1,0 +1,3 @@
+com\mvnbook\account\email\AccountEmailService.class
+com\mvnbook\account\email\AccountEmailServiceImpl.class
+com\mvnbook\account\email\AccountEmailException.class

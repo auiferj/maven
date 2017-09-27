@@ -1,0 +1,4 @@
+com\mvnbook\account\captcha\RandomGenerator.class
+com\mvnbook\account\captcha\AccountCaptchaServiceImpl.class
+com\mvnbook\account\captcha\AccountCaptchaException.class
+com\mvnbook\account\captcha\AccountCaptchaService.class

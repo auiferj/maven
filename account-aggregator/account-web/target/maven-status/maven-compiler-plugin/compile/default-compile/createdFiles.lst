@@ -1,0 +1,4 @@
+com\mvnbook\account\web\SignUpServlet.class
+com\mvnbook\account\web\ActivateServlet.class
+com\mvnbook\account\web\CaptchaImageServlet.class
+com\mvnbook\account\web\LoginServlet.class
